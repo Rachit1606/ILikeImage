@@ -2,11 +2,6 @@
 
 ILikeImage is a cloud-native image conversion web application designed to make image format transformation seamless and scalable. Users can upload an image, select the desired output format, and receive download links for both the original and converted images.
 
-## 🌐 Live Demo
-
-- **Frontend URL:** [http://ilikeimage2-env.eba-actmipqq.us-east-1.elasticbeanstalk.com/](http://ilikeimage2-env.eba-actmipqq.us-east-1.elasticbeanstalk.com/)
-- **API Gateway Endpoint:** [https://5k3st44q9i.execute-api.us-east-1.amazonaws.com/Prod/](https://5k3st44q9i.execute-api.us-east-1.amazonaws.com/Prod/)
-
 ---
 
 ## 📌 Features
